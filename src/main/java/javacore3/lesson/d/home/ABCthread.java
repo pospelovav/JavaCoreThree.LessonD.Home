@@ -26,7 +26,6 @@ public class ABCthread {
                             e.printStackTrace();
                         }
                     }
-
                 }
             }
         });
@@ -47,7 +46,6 @@ public class ABCthread {
                             e.printStackTrace();
                         }
                     }
-
                 }
             }
         });
@@ -68,7 +66,6 @@ public class ABCthread {
                             e.printStackTrace();
                         }
                     }
-
                 }
             }
         });
